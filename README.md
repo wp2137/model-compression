@@ -1,6 +1,6 @@
 # Compression of boosted decision tree models
 
-This contents of this repository are '.ipynb' notebooks related to exploration and analysis of different approaches/attempts to simplify/optimize and/or compress ML classification models.
+The contents of this repository are '.ipynb' notebooks related to exploration and analysis of different approaches/attempts to simplify/optimize and/or compress ML classification models.
 
 ## Data
 
